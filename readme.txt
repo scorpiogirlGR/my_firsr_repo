@@ -1,2 +1,1 @@
-
-this is a line existing in the issue_10 branch
+this is a line existing in master
